@@ -148,3 +148,7 @@ How it looks in practice:
 - Experimentation and testing is not limited to the product only. Agile teams are encouraged to experiment with their processes. You may think you’re already doing something well only to experiment with a revised version of the process and discover an even more effective method. Experimenting with your process and team is just as important as experimenting with the software you’re building.
 - Regular retrospectives are opportunities for the team to discuss what went well, what didn’t go so well, and where the process can be tweaked to improve things in the future. They’re an excellent place for product managers and product owners to learn if they are communicating effectively with developers and giving them the support they need before, during, and after sprints.
 - Another consideration to make regarding this agile principle is that in order to practice it effectively you need to create a culture of trust and transparency that encourages openness and frequent sharing of feedback.
+
+## References
+
+- https://www.productplan.com/glossary/agile-principles/
