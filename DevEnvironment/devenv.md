@@ -32,11 +32,11 @@ sudo visudo
 
 To move to insert mode press `i`, to leave insert mode press `escape`.
 
-- `dd` - Delete the whole line
-- `:[Line Number]`: Go to line number
-- `:set number` - To see the line numbers
-- `:wq` or `x!` - Save and quit
-- To copy `v` select and copy with `y`, then paste with `p`.
+-   `dd` - Delete the whole line
+-   `:[Line Number]`: Go to line number
+-   `:set number` - To see the line numbers
+-   `:wq` or `x!` - Save and quit
+-   To copy `v` select and copy with `y`, then paste with `p`.
 
 ### Java
 
@@ -78,9 +78,9 @@ Install in Fedora:
 sudo dnf install -y tmux
 ```
 
-- To split window horizontally: `ctl + b"`
-- To split window horizontally: `ctl + b%`
-- To maximize pane: `ctl + bz`
+-   To split window horizontally: `ctl + b"`
+-   To split window horizontally: `ctl + b%`
+-   To maximize pane: `ctl + bz`
 
 ### htop
 
@@ -99,4 +99,3 @@ sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
 sudo dnf upgrade
 sudo dnf install jenkins java-devel
 ```
-
