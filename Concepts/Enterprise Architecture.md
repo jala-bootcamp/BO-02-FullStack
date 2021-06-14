@@ -7,7 +7,6 @@ Enterprise architecture (EA) is the practice of analyzing, designing, planning a
 
 EA began in the 1960s, born from “various architectural manuscripts on Business Systems Planning (BSP) by Professor Dewey Walker,” according to the Enterprise Architecture Book of Knowledge (EABOK). John Zachmann, one of Walker’s students, helped formulate those documents into the more structured format of EA. Both men also worked for IBM during this time, and that’s when Zachman published the framework in the IBM Systems Journal in 1987.
 
-[ Learn the 10 old-school IT principles that still rule and the 12 'best practices' IT should avoid at all costs. | Find out what your peers are up to with our report: State of the CIO: IT-business alignment (finally) gets real. | Get the latest insights by signing up for our CIO daily newsletter. ]
 The EA framework came as a response to the increase of business technology, especially in the 1980s when computer systems were just taking hold in the workplace. Companies soon realized they would need a plan and long-term strategy to support the rapid growth of technology and that remains true today.
 
 Modern EA strategies now extend this philosophy to the entire business, not just IT, to ensure the business is aligned with digital transformation strategies and technological growth. EA is especially useful for large businesses going through digital transformation, because it focuses on bringing legacy processes and applications together to form a more seamless environment.
@@ -20,7 +19,6 @@ EA is guided by the organization’s business requirements — it helps lay out 
 
 The process is driven by a “comprehensive picture of an entire enterprise from the perspectives of owner, designer and builder.” Unlike other frameworks, it doesn’t include a formal documentation structure; instead, it’s intended to offer a more holistic view of the enterprise, according to the EABOK.
 
-[ Enterprise architects lead digital transformations. This PluralSight intro course explains the fundamentals of EA and its latest practices. ]
 A good EAP strategy considers the latest innovations in business processes, organizational structure, information systems and technologies. It will also include standard language and best practices for business processes, including analyzing where processes can be integrated or eliminated throughout the organization. The ultimate goal of any EAP strategy is to improve the efficiency, timeliness and reliability of business information.
 
 ## Benefits of enterprise architecture
